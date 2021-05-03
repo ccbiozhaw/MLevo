@@ -2,7 +2,7 @@
 
 Data and code to reproduce our results.
 
-ml_predictions.ipynb - jupyter notebook to reproduce results -due to inherent variantions within random forests and random seeds only the activity results can be reproduced exactly
+ml_predictions.ipynb - jupyter notebook to reproduce results - due to inherent variantions within random forests and random seeds only the activity results can be reproduced exactly
 
 ML_data.xlsx - contains the raw data for activity predictions 
 
