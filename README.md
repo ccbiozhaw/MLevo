@@ -1,4 +1,4 @@
-# soraphen
+# Paper data
 
 Data and code to reproduce our results.
 
