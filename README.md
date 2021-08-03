@@ -2,17 +2,13 @@
 
 Data and code to reproduce our results.
 
-ml_predictions.ipynb - jupyter notebook to reproduce results - due to inherent variantions within random forests and random seeds only the activity results can be reproduced exactly
+training_data_activity.xlsx - 	The activity (A) was calculated using the formula A = tot. Cl conversion WelO5* mutant / tot. Cl conversion WelO5* GAP (tot. Cl conversion= (SIM1a + SIM1b) / (SIM1a + SIM1b + SIM1c + SIM1)); the sequence of the mutant is shown as a three letter code (e.g. WelO5* V81_A88_I161 = VAI)
 
-ML_data.xlsx - contains the raw data for activity predictions 
+training_data_selectivity.xlsx 	- The selectivity (S) was calculated using the formula S = (SIM1a – SIM1b) / (SIM1a + SIM1b); the sequence of the mutant is shown as a three letter code (e.g. WelO5* V81_A88_I161 = VAI)
 
-ML_data_selectivity.xlsx - contains the raw data for selectivity predictions
+t_scale.xlsx	- Table with amino acid descriptors, used as features for the machine learning algorithms, from "T-scale as a novel vector of topological descriptors for amino acids and its application in QSARs of peptides" [1].
 
-t_scale.xlsx - amino acid decriptor from "T-scale as a novel vector of topological descriptors for amino acids and its application in QSARs of peptides" [1]
-
-table_Aa_phys_char.xlsx - contains additional amino acid properties [2]
-
-results.xlsx - output with predictions
+table_Aa_phys_char.xlsx 	Table with additional amino acid properties, used as features for the machine learning algorithms from ''Role of Different Pfcrt and Pfmdr-1 Mutations in Conferring Resistance to Antimalaria Drugs in Plasmodium falciparum'' [2].
 
 
 [1] Tian, F., Zhou, P. & Li, Z. T-scale as a novel vector of topological descriptors for amino acids and its application in QSARs of peptides. ‎J. Mol. Struct. 106–115 (2007). doi:10.1016/j.molstruc.2006.07.004
