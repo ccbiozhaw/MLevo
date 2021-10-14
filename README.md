@@ -44,4 +44,4 @@ this should only take a few seconds.
 
 # License
 
-this project is under the MIT licence
+this project is covered under the MIT licence
