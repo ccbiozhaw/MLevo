@@ -41,3 +41,7 @@ this repository can be downloaded to your local machine via the command:
 git clone https://github.com/ccbiozhaw/MLevo.git
 
 this should only take a few seconds.
+
+# License
+
+this project is under the MIT licence
