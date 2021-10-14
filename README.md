@@ -34,3 +34,8 @@ Python 3.7.4
 1.1.5 pandas  
 0.21.3 sklearn  
 
+### Installation requirements ###
+
+this repository can be downloaded to your local machine via the command:
+
+git clone https://github.com/ccbiozhaw/MLevo.git
