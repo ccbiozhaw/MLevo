@@ -2,7 +2,7 @@
 
 ### Data and code to reproduce our results ###
 
-ml_predictions.ipynb - jupyter notebook with our code. the cells can be executed in order from top to bottom. The notebook was already pre-run, and the expected outputs are visible. The only requirement are for the data files to be in the same directory as the jupyter notebook file. The runtime should not exceed a couple of minutes, even on a standard laptop
+ml_predictions.ipynb - jupyter notebook with our code. the cells can be executed in order from top to bottom. The notebook was already pre-run, and the expected outputs are visible. The only requirement are for the data files to be in the same directory as the jupyter notebook file. The runtime should not exceed a couple of minutes, even on a standard laptop. To make predictions your inputs have to adhere strictly to the format of our own data, or the code has to be adjusted respectively.
 
 training_data_activity.xlsx - 	The activity (A) was calculated using the formula A = tot. Cl conversion WelO5* mutant / tot. Cl conversion WelO5* GAP (tot. Cl conversion= (SIM1a + SIM1b) / (SIM1a + SIM1b + SIM1c + SIM1)); the sequence of the mutant is shown as a three letter code (e.g. WelO5* V81_A88_I161 = VAI)
 
