@@ -14,3 +14,23 @@ table_Aa_phys_char.xlsx 	Table with additional amino acid properties, used as fe
 [1] Tian, F., Zhou, P. & Li, Z. T-scale as a novel vector of topological descriptors for amino acids and its application in QSARs of peptides. ‎J. Mol. Struct. 106–115 (2007). doi:10.1016/j.molstruc.2006.07.004
 
 [2] Ibraheem, Z. O., Abd Majid, R., Noor, S. M., Sedik, H. M. & Basir, R. Role of Different Pfcrt and Pfmdr-1 Mutations in Conferring Resistance to Antimalaria Drugs in Plasmodium falciparum. Malar. Res. Treat. (2014). doi:10.1155/2014/950424
+
+
+# System Requirements:
+
+# # Hardware requirements:
+
+This code required only a standard computer with any operating system and
+
+Software requirements:
+
+We installed the anaconda python distribution from: https://www.anaconda.com/products/individual and followed their download instructions.
+The specific versions we used for our analysis were:
+
+Python 3.7.4
+1.16.5 numpy
+1.1.5 pandas
+0.21.3 sklearn
+
+
+
