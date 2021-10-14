@@ -27,10 +27,10 @@ To run this code and reproduce our results, only a standard computer is required
 We installed the anaconda python distribution from: https://www.anaconda.com/products/individual and followed their download instructions.
 The specific versions we used for our analysis were:
 
-Python 3.7.4 \n
-1.16.5 numpy
-1.1.5 pandas
-0.21.3 sklearn
+Python 3.7.4  
+1.16.5 numpy  
+1.1.5 pandas  
+0.21.3 sklearn  
 
 
 
