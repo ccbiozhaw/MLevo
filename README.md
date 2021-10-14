@@ -18,11 +18,11 @@ table_Aa_phys_char.xlsx 	Table with additional amino acid properties, used as fe
 
 # System Requirements:
 
-# # Hardware requirements:
+### Hardware requirements: ###
 
 This code required only a standard computer with any operating system and
 
-Software requirements:
+### Software requirements: ###
 
 We installed the anaconda python distribution from: https://www.anaconda.com/products/individual and followed their download instructions.
 The specific versions we used for our analysis were:
