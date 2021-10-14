@@ -1,6 +1,6 @@
 # Paper data
 
-Data and code to reproduce our results.
+### Data and code to reproduce our results ###
 
 training_data_activity.xlsx - 	The activity (A) was calculated using the formula A = tot. Cl conversion WelO5* mutant / tot. Cl conversion WelO5* GAP (tot. Cl conversion= (SIM1a + SIM1b) / (SIM1a + SIM1b + SIM1c + SIM1)); the sequence of the mutant is shown as a three letter code (e.g. WelO5* V81_A88_I161 = VAI)
 
@@ -20,7 +20,7 @@ table_Aa_phys_char.xlsx 	Table with additional amino acid properties, used as fe
 
 ### Hardware requirements: ###
 
-This code required only a standard computer with any operating system and
+To run this code and reproduce our results, only a standard computer is required.
 
 ### Software requirements: ###
 
