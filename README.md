@@ -2,6 +2,8 @@
 
 ### Data and code to reproduce our results ###
 
+ml_predictions.ipynb - jupyter notebook with our code. the cells can be executed in order from top to bottom. The only requirement is for the data files to be in the same directory as the jupyter notebook file.
+
 training_data_activity.xlsx - 	The activity (A) was calculated using the formula A = tot. Cl conversion WelO5* mutant / tot. Cl conversion WelO5* GAP (tot. Cl conversion= (SIM1a + SIM1b) / (SIM1a + SIM1b + SIM1c + SIM1)); the sequence of the mutant is shown as a three letter code (e.g. WelO5* V81_A88_I161 = VAI)
 
 training_data_selectivity.xlsx 	- The selectivity (S) was calculated using the formula S = (SIM1a – SIM1b) / (SIM1a + SIM1b); the sequence of the mutant is shown as a three letter code (e.g. WelO5* V81_A88_I161 = VAI)
@@ -31,6 +33,4 @@ Python 3.7.4
 1.16.5 numpy  
 1.1.5 pandas  
 0.21.3 sklearn  
-
-
 
