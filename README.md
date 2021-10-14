@@ -16,13 +16,13 @@ table_Aa_phys_char.xlsx 	Table with additional amino acid properties, used as fe
 [2] Ibraheem, Z. O., Abd Majid, R., Noor, S. M., Sedik, H. M. & Basir, R. Role of Different Pfcrt and Pfmdr-1 Mutations in Conferring Resistance to Antimalaria Drugs in Plasmodium falciparum. Malar. Res. Treat. (2014). doi:10.1155/2014/950424
 
 
-# System Requirements:
+# System Requirements
 
-### Hardware requirements: ###
+### Hardware requirements ###
 
 To run this code and reproduce our results, only a standard computer is required.
 
-### Software requirements: ###
+### Software requirements ###
 
 We installed the anaconda python distribution from: https://www.anaconda.com/products/individual and followed their download instructions.
 The specific versions we used for our analysis were:
