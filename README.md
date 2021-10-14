@@ -39,3 +39,5 @@ Python 3.7.4
 this repository can be downloaded to your local machine via the command:
 
 git clone https://github.com/ccbiozhaw/MLevo.git
+
+this should only take a few seconds.
