@@ -33,6 +33,7 @@ Python 3.7.4
 1.16.5 numpy  
 1.1.5 pandas  
 0.21.3 sklearn  
+1.2.0 xlrd
 
 ### Installation requirements ###
 
